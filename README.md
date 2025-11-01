@@ -10,7 +10,7 @@ A simple Flask application that demonstrates user login, session handling, and l
 Clone the repository and navigate to the folder:
 
 ```bash
-git clone https://github.com/KhadijaCodes-hub/flask-login-system.git
+https://github.com/KhadijaCodes-hub/Flask-Simple-Login-User-.git
 cd flask-login-system
 ````
 
