@@ -11,7 +11,7 @@ Clone the repository and navigate to the folder:
 
 ```bash
 https://github.com/KhadijaCodes-hub/Flask-Simple-Login-User-.git
-cd flask-login-system
+cd Flask-Simple-Login-User-
 ````
 
 Install dependencies:
